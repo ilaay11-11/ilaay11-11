@@ -4,7 +4,7 @@
 <h4>MSc Experimental Biology👩🏽‍🎓 In Progress...</h4>
 <h3>Front-End Developer💻 In Progress... 🏃🏽‍♀️</h3>
 
-- I'm currently a Padawan from **Hackademy MX**. Together, we're developing a project named **Get Talent**✨✨
+- I'm currently a Padawan in **Hackademy MX**. Together, we're developing a project named **Get Talent**✨✨
 - I'm still learning JS(React), HTML, and CSS in order to be a great Front-End Developer 🦾.
 
 
