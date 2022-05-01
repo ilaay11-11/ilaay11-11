@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h2> Hi, I'm Elisa Villeda 😎 (She/Her) </h2>
+<h3>Front-End Developer💻 In Progress... 🏃🏽‍♀️</h3>
+<h4>Molecular Biologist🥼🧬 </h4>
+<h4>MSc Experimental Biology👩🏽‍🎓 In Progress...</h4>
+
+- I'm currently a Padawan from **Hackademy MX**. With their help and other padawans like me, We're developing a project named **Get Talent**✨✨
+- I'm still learning JS(React), HTML, and CSS in order to be a great Front-End Developer 🦾.
+
 
 <!--
 **ilaay11-11/ilaay11-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
